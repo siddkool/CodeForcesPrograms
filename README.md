@@ -4,4 +4,6 @@
 
 *Unfortunately, I was not able to find every single program, but this is a big majority of them from the time my rating was about 1200*
 
-**Currently, I am trying to reach LGM! [Rating of 3000+]**
+*This also includes programs for competitions that I did not participate in but practiced with*
+
+**Currently, I am trying to reach GM! [Rating of 2400+]**
